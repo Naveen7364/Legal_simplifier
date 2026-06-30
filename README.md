@@ -60,9 +60,6 @@ npm run dev
 
 Visit `http://localhost:5173`
 
-## 📸 Screenshots
-
-*(Add screenshots here)*
 
 ## 🔮 Future Improvements
 
