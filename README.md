@@ -16,12 +16,12 @@ Most people sign legal documents without fully understanding what they're agreei
 - 🎨 Clean, modern dark-themed UI
 - ⚡ Real-time AI analysis
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-**Frontend:** React, Vite, Axios, CSS3
-**Backend:** Python, Flask, Flask-CORS
-**AI:** OpenRouter API (Llama 3.1 8B Instruct)
-**PDF Processing:** PyMuPDF (fitz)
+- **Frontend:** React, Vite, Axios, CSS3  
+- **Backend:** Python, Flask, Flask-CORS  
+- **AI:** OpenRouter API (Llama 3.1 8B Instruct)  
+- **PDF Processing:** PyMuPDF (fitz)
 
 ## 🚀 How It Works
 
