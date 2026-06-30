@@ -19,10 +19,10 @@ function App() {
 
     try {
       const response = await axios.post(
-        "http://127.0.0.1:5000/analyze",
-        formData,
-        { headers: { "Content-Type": "multipart/form-data" } }
-      );
+  "https://legal-simplifier-backend-g0eq.onrender.com/analyze",
+  formData,
+  { headers: { "Content-Type": "multipart/form-data" } }
+);
       setAnalysis(response.data.analysis);
     } catch (err) {
       setError("Something went wrong. Please try again.");
