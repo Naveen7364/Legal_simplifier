@@ -42,18 +42,20 @@ Most people sign legal documents without fully understanding what they're agreei
 
 ## 🏗️ Project Structure
 
+```
 legal-simplifier/
 ├── backend/
-│   ├── app.py              # Flask server & API routes
-│   ├── .env                # API key (not committed)
-│   └── requirements.txt
+│   ├── app.py              
+│   ├── .env                
+│   └── requirements.txt    
 └── frontend/
-└── src/
-├── App.jsx         # Main React component
-├── App.css         # Styling
-└── components/
-├── Upload.jsx  # PDF upload with drag & drop
-└── Results.jsx # Analysis results display
+    └── src/
+        ├── App.jsx         
+        ├── App.css         
+        └── components/
+            ├── Upload.jsx  
+            └── Results.jsx 
+```
 
 ## 📦 Installation & Setup
 
