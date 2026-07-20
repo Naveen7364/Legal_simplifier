@@ -61,17 +61,18 @@ RED FLAGS:
 - [red flag 2]
 
 RISK SCORE:
-[number]/10 - [reason]
+[Write only number like 7]/10 - [reason]
 
 Here is the document:
 {text[:4000]}"""
 
         response = client.chat.completions.create(
-            model="meta-llama/llama-3.1-8b-instruct",
-            messages=[
-                {"role": "user", "content": prompt}
-            ]
-        )
+    model="meta-llama/llama-3.1-8b-instruct",
+    messages=[
+        {"role": "user", "content": prompt}
+    ],
+    temperature=0.1
+)
 
         result = response.choices[0].message.content
         print("RESULT:", result)
