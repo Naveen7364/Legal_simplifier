@@ -4,7 +4,7 @@ An AI-powered web app that simplifies complex legal documents into plain English
 
 ## 🌐 Live Demo
 
-- **Frontend:** [legal-simplifier-fjgukcch5-naveen-futurebuilders.vercel.app](https://legal-simplifier-fjgukcch5-naveen-futurebuilders.vercel.app)
+- **Frontend:** [legal-simplifier-seven.vercel.app](https://legal-simplifier-seven.vercel.app)
 - **Backend API:** [legal-simplifier-backend-g0eq.onrender.com](https://legal-simplifier-backend-g0eq.onrender.com)
 
 ## 🎯 Problem It Solves
