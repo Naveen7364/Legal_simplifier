@@ -110,9 +110,9 @@ This project is deployed using free tier services:
 
 ## 👤 Author
 
-**Naveen Varma**
+**Naveen**
 Final Year B.Tech CSE — CMR College of Engineering & Technology, Hyderabad
 
 ## 📄 License
 
-This project is for educational purposes as part of a final year academic project.
+This project is for educational purposes only.
